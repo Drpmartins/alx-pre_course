@@ -1,1 +1,1 @@
-my first directory
+I have started my softwareengineer journey
